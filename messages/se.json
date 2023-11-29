@@ -1,0 +1,6 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"currentLanguageTag": "Den aktivarade språktaggen är \"{languageTag}\".",
+	"greeting": "Välkommen {name}! Du har {count} meddelanden.",
+	"header": "länk ett"
+}
