@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+p {
+    line-height: 1.5;
+}
+
+layout-main {
+    display: block;
+    width: 90ch;
+    max-width: 100%;
+    padding: 1em 0;
+    margin: auto;
+}

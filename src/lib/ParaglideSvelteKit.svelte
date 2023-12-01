@@ -10,8 +10,8 @@
     setLanguageTag(() => getContext("languageTag"))
 
     // Set lang if no lang
-    // let url = $page.url.pathname.split('/').slice(1)
-    
+    let url = $page.url.pathname.split('/').slice(1)
+    console.log(url)
 
     let oldLanguageTag = languageTag();
 
